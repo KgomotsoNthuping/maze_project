@@ -1,4 +1,4 @@
-#include "../headers/header.h"
+#include "MAZE_H"
 
 /**
  * SDL_KEYDOWN_FUNC - process input when a key is down
