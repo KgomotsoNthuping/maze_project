@@ -2,9 +2,9 @@
 #define MAZE_H
 
 /*
- * File: maze.h
- * Auth: Elysée NIYIBIZI
- * Desc: Header file containing declarations for all functions
+ * FileName: maze.h
+ * Author: Kgomotso
+ * Description: Header file containing declarations for all functions
  *       used my whole Program.
  */
 
