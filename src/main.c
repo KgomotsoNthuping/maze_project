@@ -1,4 +1,4 @@
-#include "MAZE_H"
+#include "../headers/header.h"
 
 bool GameRunning = false;
 int TicksLastFrame;
